@@ -4,6 +4,11 @@ Separated in three-digit numbers
 ## Installation
 `$ npm install three_digit_sep`
 
+## Example
+    const sepalator = require('three_digit_sqp');
+    const result = sepalator(1234567890);
+    console.log(result); // 1,234,567,890
+
 ## License
 The MIT License (MIT) Copyright (c) 2016 Tadashi Yamazaki
 
