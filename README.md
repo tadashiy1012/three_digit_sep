@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tadashiy1012/three_digit_sep.svg?branch=master)](https://travis-ci.org/tadashiy1012/three_digit_sep)
+
 # three_digit_sep
 Separated in three-digit numbers
 
